@@ -332,8 +332,8 @@
         btnLabel_dismiss: 'Dismiss',
         link_viewChanges: 'View changes',
         unit_seconds: 'seconds',
-        state_enabled: 'enabled',
-        state_disabled: 'disabled',
+        state_enabled: 'פועל',
+        state_disabled: 'לא פועל',
         state_on: 'on',
         state_off: 'off'
     }
