@@ -332,7 +332,7 @@
         btnLabel_dismiss: 'Dismiss',
         link_viewChanges: 'View changes',
         unit_seconds: 'seconds',
-        state_enabled: 'תפועל',
+        state_enabled: 'פועלת',
         state_disabled: 'לא פועלת',
         state_on: 'on',
         state_off: 'off'
