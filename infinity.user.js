@@ -562,10 +562,6 @@
     const infinity = {
 
         async activate() {
-            const activatePrompt = 'Generate a single random question'
-                + ( config.replyLanguage ? ( ' in ' + config.replyLanguage ) : '' )
-                + ( ' on ' + ( config.replyTopic == 'ALL' ? 'ALL topics' : 'the topic of ' + config.replyTopic ))
-                + ' then answer it. Don\'t type anything else.'
             if (env.browser.isMobile && chatgpt.sidebar.isOn()) chatgpt.sidebar.hide()
             await new Promise(resolve => setTimeout(resolve, 500)) // sleep 500ms
             await new Promise(resolve => setTimeout(resolve, 3000)) // sleep 3s
