@@ -277,7 +277,7 @@
         appName: app.name,
         appAuthor: app.author.name,
         appDesc: 'Generate endless answers from all-knowing ChatGPT (in any language!)',
-        menuLabel_infinityMode: 'תגובה אוטו'',
+        menuLabel_infinityMode: 'תגובה אוטו' ',
         menuLabel_autoStart: 'Auto-Start',
         menuLabel_toggleVis: 'Toggle Visibility',
         menuLabel_autoScroll: 'Auto-Scroll',
