@@ -277,7 +277,7 @@
         appName: app.name,
         appAuthor: app.author.name,
         appDesc: 'Generate endless answers from all-knowing ChatGPT (in any language!)',
-        menuLabel_infinityMode: 'Infinity Mode',
+        menuLabel_infinityMode: 'תגובה אוטומטית',
         menuLabel_autoStart: 'Auto-Start',
         menuLabel_toggleVis: 'Toggle Visibility',
         menuLabel_autoScroll: 'Auto-Scroll',
@@ -332,8 +332,8 @@
         btnLabel_dismiss: 'Dismiss',
         link_viewChanges: 'View changes',
         unit_seconds: 'seconds',
-        state_enabled: 'פועל',
-        state_disabled: 'לא פועל',
+        state_enabled: 'תפועל',
+        state_disabled: 'לא פועלת',
         state_on: 'on',
         state_off: 'off'
     }
